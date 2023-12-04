@@ -1,0 +1,41 @@
+Targil1:
+public class Ex1 
+{
+
+	public static void main(String[] args) 
+	{
+		int num1 = 5;
+		int num2 = 7;
+		int num3 = 9;
+		System.out.println(num1 + " " + num2 + " " + num3);
+	}
+
+}
+
+Targil2:
+public class Ex2 
+{
+
+	public static void main(String[] args) 
+	{
+		char tav = 'r';
+		char tav1 = 'o';
+		char tav2 = 'n';
+		char tav3 = 'i';
+		System.out.println(tav + "" + tav1 + "" + tav2 + "" + tav3);
+	}
+
+}
+
+Targil3:
+public class Ex3 
+{
+
+	public static void main(String[] args) 
+	{
+		int num1 = 5;
+		int num2 = 67;
+		System.out.println(num1 + "" + num2);
+	}
+
+}
